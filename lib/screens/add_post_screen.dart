@@ -3,7 +3,6 @@
 import 'dart:io';
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
-import 'package:flutter_instagram_app/model/users.dart';
 import 'package:flutter_instagram_app/providers/user_provider.dart';
 import 'package:flutter_instagram_app/resources/firestore_methods.dart';
 import 'package:flutter_instagram_app/utils/colors.dart';
