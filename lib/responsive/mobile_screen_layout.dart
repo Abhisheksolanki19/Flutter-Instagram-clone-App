@@ -1,9 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_instagram_app/model/users.dart' as userModel;
-import 'package:flutter_instagram_app/providers/user_provider.dart';
 import 'package:flutter_instagram_app/utils/colors.dart';
-import 'package:provider/provider.dart';
 
 import '../utils/global_variables.dart';
 
