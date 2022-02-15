@@ -29,6 +29,7 @@ class _CommentCardState extends State<CommentCard> {
                 children: [
                   RichText(
                     text: TextSpan(
+                      style: TextStyle(color: Theme.of(context).primaryColor),
                       children: [
                         TextSpan(
                           text: widget.snap['username'],
