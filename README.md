@@ -21,6 +21,8 @@ A completely Responsive Instagram clone App- Works on Android, iOS & Web!
 &nbsp;<img src="assets/screenshots/ss6.jpg" height="500em" /><img src="assets/screenshots/ss7.jpg" height="500em"/>&nbsp;<img src="assets/screenshots/ss8.jpg" height="500em" />
 &nbsp;<img src="assets/screenshots/ss9.jpg" height="500em" />
 
+https://user-images.githubusercontent.com/52146654/154000719-962d0c0a-48e0-4d59-aad8-d1d50c9c49d4.mp4
+
 
 ## Installation
 After cloning this repository, migrate to ```instagram-flutter-clone-App``` folder. Then, follow the following steps:
